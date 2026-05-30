@@ -26,6 +26,7 @@ map:
   - media:rw
   - addon_config:rw
   - backup:ro
+  - all_addon_configs:rw
 options:
   enable_mcp: true
   terminal_font_size: 14
